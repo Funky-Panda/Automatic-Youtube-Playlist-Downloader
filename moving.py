@@ -15,9 +15,9 @@ from pushbullet import Pushbullet
 import time
 
 
-pushbullet_key = 'o.9r4kfPlL31WmffeqNOmH6wsCLFwLsB08'
+pushbullet_key = 'pushbullet_key'
 pb = Pushbullet(pushbullet_key)
-api_key = "AIzaSyAzFd8E4KCdYYESa_zgBBGjUE8q7ktQrxk"
+api_key = "Youtube Api key"
 playlist_id = "WHAT EVER PLAYLIST ID"
 
 youtube = build("youtube","v3",developerKey=api_key)
