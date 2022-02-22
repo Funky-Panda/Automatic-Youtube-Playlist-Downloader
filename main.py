@@ -10,7 +10,7 @@ import time
 import os
 from pushbullet import Pushbullet
 
-pushbullet_key = YOUR-KEY
+pushbullet_key = "YOUR-KEY"
 pb = Pushbullet(pushbullet_key)
 api_key = "youtube api key"
 playlist_id = "playlist Id"
